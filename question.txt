@@ -1,0 +1,5 @@
+1> What is a Primary Key in a database?,A. A column that uniquely identifies each row in a table,B. A column that holds duplicate values,C. A special character in SQL,D. A unique table identifier,A
+2> Which of the following SQL commands is used to retrieve data from a database?,A. INSERT,B. DELETE,C. SELECT,D. UPDATE,C
+3> What is a foreign key used for in a relational database?,A. To uniquely identify a row within its table,B. To link two tables together,C. To define primary data types,D. To update data quickly,B
+4> Which data structure uses the LIFO (Last In First Out) principle?,A. Queue,B. Stack,C. Linked List,D. Array,B
+5> What is the time complexity of binary search in a sorted array?,A. O(n),B. O(log n),C. O(n^2),D. O(1),B
